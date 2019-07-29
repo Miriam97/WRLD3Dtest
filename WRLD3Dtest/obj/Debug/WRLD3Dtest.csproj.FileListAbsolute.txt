@@ -1,0 +1,7 @@
+C:\Users\miria\source\repos\WRLD3Dtest\WRLD3Dtest\bin\Debug\WRLD3Dtest.exe.config
+C:\Users\miria\source\repos\WRLD3Dtest\WRLD3Dtest\bin\Debug\WRLD3Dtest.exe
+C:\Users\miria\source\repos\WRLD3Dtest\WRLD3Dtest\bin\Debug\WRLD3Dtest.pdb
+C:\Users\miria\source\repos\WRLD3Dtest\WRLD3Dtest\obj\Debug\WRLD3Dtest.csprojAssemblyReference.cache
+C:\Users\miria\source\repos\WRLD3Dtest\WRLD3Dtest\obj\Debug\WRLD3Dtest.csproj.CoreCompileInputs.cache
+C:\Users\miria\source\repos\WRLD3Dtest\WRLD3Dtest\obj\Debug\WRLD3Dtest.exe
+C:\Users\miria\source\repos\WRLD3Dtest\WRLD3Dtest\obj\Debug\WRLD3Dtest.pdb
